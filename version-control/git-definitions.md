@@ -10,3 +10,4 @@
 * A commit is making a set of changes permanent, a good commit would be to confirm altering something permanently at the end of a transaction.
 * What is a merge conflict?
 * happens when merging or pulling from a current branch to the branch you want to merge into have diverged- if there are commits in the current branch that aren't in the other branch and vice versa.
+hi.
