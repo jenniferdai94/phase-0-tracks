@@ -1,0 +1,31 @@
+<style>
+#contact-info {
+  font-size: .8em;
+}
+
+#job {
+  background-color: #e9e5dc;
+  padding: 8px;
+  margin-top: 10px;
+}
+
+<section id="ul">
+#ul {
+font-size: .8em;
+}
+
+
+h2::first-line {
+color: darkblue;
+}
+</style>
+
+ul > li { font-style: italic; }
+
+.experience-category
+{
+  border-style: solid;
+}
+
+#personal-objective {
+  border-style: dashed;

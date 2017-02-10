@@ -5,19 +5,28 @@ html {
 }
 
 body {
-  font-family: "Georgia", serif;
-  padding: 20px 30px;
-  border-radius: 5px;
-  background-color: white;
-  margin: 30px auto;
+  font-family: "Helvetica", sans-serif;
+  padding: 40px 50px;
+  border-radius: 6px;
+  background-color: lightgrey;
+  margin: 20px auto;
   max-width: 960px;
   font-size: 1.2em;
 }
 
-ul {
+.ul {
   list-style-type: square;
 }
+ul > li { font-style: italic; }
 
+.experience-category
+{
+  border-style: solid;
+}
+
+#personal-objective {
+  border-style: dashed;
+}
 /* You can select multiple tags at once! */
 
 h1, h2, h3, h4, h5, h6 {
