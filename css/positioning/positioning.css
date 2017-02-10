@@ -1,0 +1,33 @@
+#octopus {
+
+	position: absolute;
+	padding: 1px;
+	top: 90px;
+	margin-left: 150px;
+	margin-top: 8px;
+	z-index: -2;
+
+
+}
+
+#hat {
+position: relative;
+left: 130px;
+z-index: -1;
+top: 15px;
+}
+
+#glasses {
+	position: absolute;
+	 top: 200px;
+	 left: 200px;
+}
+
+
+<img src="octopus.png">
+
+
+
+
+<img src="glasses.png">
+<img src="hat.png">
