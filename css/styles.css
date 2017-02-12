@@ -1,7 +1,14 @@
 body {background:blue}
 
 #h1 {
-	font-size: 5em;
+	font-size: 4em;
 	font-family: helvetica;
-	font-color: white;
+	font-style: italic;
+	color:white;
+	padding: 50px;
+	margin: 60px;
+	margin-left: 400px;
+display: inline-block;
+
 }
+
